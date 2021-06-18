@@ -15,10 +15,11 @@ namespace ConsoleA
             Console.WriteLine("Escribe tu peso: ");
             var peso = int.Parse(Console.ReadLine());
 
-            //ToDo:Sebastian, debo leer 10 datos de una persona utilizando todos esos tipos de datos
+            //To Do:kevin, debo leer 10 datos de una persona utilizando todos esos tipos de datos
             ///float
             //double
-            //DateTime // System.DateTime
+            //DateTime 
+            // System.DateTime
             //bool
 
             Console.WriteLine("Escribe tu edad: ");
